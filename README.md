@@ -1,6 +1,4 @@
----
-theme: qklhk-chocolate
----
+
 ## 引言
 
 最近看到 [自如团队](https://juejin.cn/user/1494986085377223) 发布的 [自如客APP裸眼3D效果的实现](https://juejin.cn/post/6989227733410644005#comment)，这个布局确实做得很有趣，越玩越上瘾，感谢自如团队的分享。随即按照自己的思路用 Flutter 实现一遍，来看看最终效果。
