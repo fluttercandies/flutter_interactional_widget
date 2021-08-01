@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0 添加仿自如 banner 交互 widget
 
-* TODO: Describe initial release.
+ 
