@@ -9,7 +9,7 @@
 | ![IMG_0020.gif](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f93cd02d259b4a42867f65adf3e3ff49~tplv-k3u1fbpfcp-watermark.image)| ![IMG_0021.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f71fd3ea3ade4d1e87ce201e4711e328~tplv-k3u1fbpfcp-watermark.image) |
 
 
-
+apk 下载可直接运行：https://github.com/fluttercandies/flutter_interactional_widget/blob/main/app-release.apk
 
 
 
