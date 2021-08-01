@@ -20,11 +20,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sensors_plus:
-    git:
-      url: https://github.com/Nayuta403/plus_plugins.git
-      ref: main
-      path: ./packages/sensors_plus/sensors_plus
+  nayuta_sensors: "^1.0.0"
+
   flutter_interactional_widget:
     path: ../
   # The following adds the Cupertino Icons font to your application.

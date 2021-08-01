@@ -3,7 +3,7 @@ import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sensors_plus/sensors_plus.dart';
+import 'package:nayuta_sensors/sensors_plus.dart';
 
 // ignore: must_be_immutable
 class InteractionalWidget extends StatefulWidget {
