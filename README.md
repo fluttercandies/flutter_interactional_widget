@@ -1,3 +1,4 @@
+github 限制图片大小，失效图片请移步掘金查看：[拿去吧你！Flutter 仿自如 App 裸眼 3D 效果](https://juejin.cn/post/6991409083765129229)
 
 ## 引言
 
